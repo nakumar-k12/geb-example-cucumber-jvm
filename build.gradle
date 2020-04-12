@@ -21,7 +21,7 @@ ext {
 	gebVersion = '3.4'
 	seleniumVersion = '3.14.0'
 	cucumberJvmVersion = '1.2.5'
-	chromeDriverVersion = '73.0.3683.68'
+	chromeDriverVersion = '81.0.4044.69'
 	geckoDriverVersion = '0.24.0'
 }
 
